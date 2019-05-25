@@ -2,7 +2,7 @@
 
 **WORK IN PROGRESS**
 
-Cloud College, rebuilt from scratch. [Back-end](https://github.com/yangchen29/Hack_up)
+Cloud College, rebuilt from scratch. [Back-end](https://github.com/yangchen29/Hack_up) [Archive](../../tree/archive)
 
 - Setup `yarn`
 - Run `yarn serve`
